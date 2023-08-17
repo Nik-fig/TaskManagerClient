@@ -1,0 +1,10 @@
+.Main {
+  min-height: 100vh;
+
+  .Content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
